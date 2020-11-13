@@ -5,7 +5,7 @@ I'm working on learning more about Github.
 <ul>
   {% for post in site.posts %}
   <li>
-    <a href="{{ post.url }}"> {{post.title}}</a>
+    <a href="{{ _posts/post.url }}"> {{post.title}}</a>
   </li>
   {% endfor %}
  </ul>
