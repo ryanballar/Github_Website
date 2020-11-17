@@ -2,3 +2,5 @@ title: Ryan's Github Website
 description: My first Github Website
 github_username: ryanballar
 theme: jekyll-theme-minimal
+url: https://ryanballar.github.io
+baseurl: /Github_Website
